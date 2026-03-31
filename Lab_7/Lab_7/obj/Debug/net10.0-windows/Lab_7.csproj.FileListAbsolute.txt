@@ -1,0 +1,16 @@
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\bin\Debug\net10.0-windows\Lab_7.exe
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\bin\Debug\net10.0-windows\Lab_7.deps.json
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\bin\Debug\net10.0-windows\Lab_7.runtimeconfig.json
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\bin\Debug\net10.0-windows\Lab_7.dll
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\bin\Debug\net10.0-windows\Lab_7.pdb
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\obj\Debug\net10.0-windows\Lab_7.Form1.resources
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\obj\Debug\net10.0-windows\Lab_7.csproj.GenerateResource.cache
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\obj\Debug\net10.0-windows\Lab_7.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\obj\Debug\net10.0-windows\Lab_7.AssemblyInfoInputs.cache
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\obj\Debug\net10.0-windows\Lab_7.AssemblyInfo.cs
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\obj\Debug\net10.0-windows\Lab_7.csproj.CoreCompileInputs.cache
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\obj\Debug\net10.0-windows\Lab_7.dll
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\obj\Debug\net10.0-windows\refint\Lab_7.dll
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\obj\Debug\net10.0-windows\Lab_7.pdb
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\obj\Debug\net10.0-windows\Lab_7.genruntimeconfig.cache
+D:\code\унік\Курс-2\Крос-платформне програмування\lab-7\Lab_7\Lab_7\obj\Debug\net10.0-windows\ref\Lab_7.dll
